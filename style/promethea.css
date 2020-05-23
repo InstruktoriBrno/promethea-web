@@ -1,0 +1,141 @@
+body {
+	background-color: Black;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;	
+	/* color: #f89a0f;	*/
+	color: f8cf0f;
+}
+
+a:link 			 {text-decoration: none; color: White;}
+a:visited    {text-decoration: none; color: White;}
+a:hover      {text-decoration: none; color: Silver;}
+
+menu {
+	text-align: center;
+}
+
+table {
+	text-align: center;
+	table-layout: auto;
+/*	width: 100%;	*/
+}
+
+img {
+	border: none;
+}
+ 
+h3 {
+	color: white;
+	padding-top: 0px;
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+hr {
+	color: f8cf0f;
+}
+
+input {
+	width: 200px;
+}
+
+.main {
+	padding: 20px;
+}
+
+.tym td {
+	font-size: 13px;	
+	text-align: justify;
+/*	border-width: 10px;
+	border-style: solid;
+	border-color: black;	*/
+	vertical-align: top;
+	padding: 5px;
+}
+
+.prihlaska {
+	padding-left: 20px;
+	text-align: justify;
+}
+
+.kontakt {
+	width: 250px;
+	text-align: justify;
+}
+
+.organizace {
+	position: absolute;
+	top: 200px;
+	left: 350px;
+}
+
+.citat {
+	position: absolute;	
+	padding: 5px;
+	width: 150px;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	border-color: white;
+	font-style: italic;
+	text-align: center;
+}
+
+.logo {
+	width: 100%;
+	text-align: center;
+	font-size: 13px;
+	table-layout: fixed;
+}
+
+#c1 {
+	left: 70px;
+	top: 250px;
+}
+
+#c2 {
+	left: 300px;
+	top: 500px;
+}
+
+#c3 {
+	left: 250px;
+	top: 230px;
+}
+
+#c4 {
+	left: 500px;
+	top: 400px;
+}
+
+#c5 {
+	left: 800px;
+	top: 350px;
+}
+
+#c6 {
+	left: 550px;
+	top: 250px;
+}
+
+#c7 {
+	left: 200px;
+	top: 350px;
+}
+
+.center {
+	text-align: center;
+}
+
+/*
+.menu a:link 			 {text-decoration: none; color: RoyalBlue;}
+.menu a:visited    {text-decoration: none; color: RoyalBlue;}
+.menu a:hover      {font-weight: bold; color: SteelBlue;}
+*/
+.menu a:link 			 {text-decoration: none; color: White;}
+.menu a:visited    {text-decoration: none; color: White;}
+.menu a:hover      {font-weight: bold; color: Silver;}
+
+.menu table {
+	table-layout: fixed;
+	width: 100%;
+}
